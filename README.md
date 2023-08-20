@@ -1,5 +1,8 @@
 Name: Michael Pollard
-Student ID: Project 1
+
+Student ID: 36667
+
+MAST30034 Project 1
 
 Library requirements are listed in requirements.txt
 
